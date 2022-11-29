@@ -9,6 +9,8 @@ design:
   columns: "1"
   css_style: null
   css_class: null
+  background:
+    image: 640.png
 hero_media: welcome.jpg
 ---
 <br>
