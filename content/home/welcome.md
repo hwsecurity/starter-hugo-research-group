@@ -4,11 +4,12 @@ widget_id: HWS
 headless: true
 weight: 10
 title: HWS硬件安全夏令营
-hero_media: welcome.jpg
+subtitle: "111"
 design:
   columns: "1"
   css_style: null
   css_class: null
+hero_media: welcome.jpg
 ---
 <br>
 
