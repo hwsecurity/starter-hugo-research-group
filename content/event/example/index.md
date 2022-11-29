@@ -5,7 +5,7 @@ slides: null
 url_pdf: ""
 summary: An example event.
 title: HWS计划第五期-2022硬件安全在线夏令营
-location: 中国·北京
+location: Online
 date: 2022-07-01T09:34:48.584Z
 date_end: 2022-08-01T09:34:55.084Z
 all_day: true
