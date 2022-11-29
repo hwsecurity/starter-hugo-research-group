@@ -12,4 +12,8 @@ design:
 ---
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+<!--StartFragment-->
+
+HWS计划系列活动，是由安恒信息主办，华为独家赞助，HWS计划是华为对硬件安全人才的培养计划，以“硬件安全”为主题，寻找&培养最强“红武士”。
+
+<!--EndFragment-->
