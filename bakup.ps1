@@ -1,3 +1,3 @@
 git add .
-git commit -m "backuo"
+git commit -m "backup"
 git push origin master
