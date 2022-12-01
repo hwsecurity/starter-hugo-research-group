@@ -2,9 +2,9 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
-weight: 20
+weight: 40
 
-title: Latest News
+title: Recent & Upcoming Events
 subtitle:
 
 content:
@@ -17,7 +17,7 @@ content:
     tag: ''
   offset: 0
   order: desc
-  page_type: post
+  page_type: event
 design:
   view: 3
   columns: '1'

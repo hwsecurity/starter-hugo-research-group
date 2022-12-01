@@ -1,6 +1,6 @@
 ---
 widget: slider
-weight: 10
+weight: 1
 active: true
 headless: true
 
@@ -9,7 +9,7 @@ design:
   slide_height: ''
   is_fullscreen: true
   # Automatically transition through slides?
-  loop: true
+  loop: false
   # Duration of transition between slides (in ms)
   interval: 3000
 
@@ -20,7 +20,7 @@ content:
       align: center
       background:
         position: center
-        fit: cover
+        size: contain
         color: '#666'
         brightness: 0.9
         media: slides/img1.jpg
@@ -28,7 +28,7 @@ content:
       content: 
       align: center
       background:
-        position: center
+        position: right
         color: '#666'
         brightness: 0.9
         media: slides/img2.jpg
@@ -36,7 +36,7 @@ content:
       content: 
       align: center
       background:
-        position: center
+        position: right
         color: '#666'
         brightness: 0.9
         media: slides/img3.jpg
@@ -44,7 +44,7 @@ content:
       content: 
       align: center
       background:
-        position: center
+        position: right
         color: '#666'
         brightness: 0.9
         media: slides/img4.png
@@ -52,7 +52,7 @@ content:
       content: 
       align: center
       background:
-        position: center
+        position: right
         color: '#666'
         brightness: 0.9
         media: slides/img5.png
@@ -78,30 +78,3 @@ content:
     #     text: Join Us
     #     url: ../contact/
 ---
-
-<!-- ---
-advanced:
-  css_class: fullscreen
-widget: blank
-widget_id: none
-headless: true
-weight: 10
-title: null
-subtitle: null
-active: true
-design:
-  columns: "1"
-  background:
-    image: 640.png
-    image_darken: 0
-    image_parallax: false
-    image_position: center
-    image_size: cover
-    text_color_light: true
-  spacing:
-    padding:
-      - 20px
-      - "0"
-      - 20px
-      - "0"
---- -->
