@@ -29,3 +29,6 @@ main:
   - name: Events
     url: event
     weight: 20
+  - name: Reviews
+    url: review
+    weight: 30
