@@ -32,3 +32,6 @@ main:
   - name: Reviews
     url: review
     weight: 30
+  - name: Contact
+    url: contact
+    weight: 40
