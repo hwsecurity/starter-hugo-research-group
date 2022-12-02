@@ -2,7 +2,7 @@
 widget: hero
 widget_id: HWS
 headless: true
-weight: 10
+weight: 20
 css_class: 'template.scss'
 title: HWS
 subtitle: ""
