@@ -9,7 +9,7 @@ design:
   slide_height: '100%'
   is_fullscreen: true
   # Automatically transition through slides?
-  loop: false
+  loop: true
   # Duration of transition between slides (in ms)
   interval: 3000
   spacing:
