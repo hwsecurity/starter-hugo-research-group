@@ -8,10 +8,10 @@
 //   justify-content: center;
 // }
 
-@media (max-width: 991.98px) {
+@media (max-width: 1080px) {
   .home-section.fullscreen,
   .fullscreen {
-    min-height: calc(100vh - 600px);
+    min-height: calc(100vh - 500px);
     } }
 
 .home-section:nth-of-type(even) {
