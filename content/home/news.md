@@ -3,7 +3,7 @@
 widget: pages
 headless: true
 weight: 20
-
+css_class: 'template.scss'
 title: Latest News
 subtitle:
 

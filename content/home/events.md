@@ -3,7 +3,7 @@
 widget: pages
 headless: true
 weight: 40
-
+css_class: 'template.scss'
 title: Recent & Upcoming Events
 subtitle:
 

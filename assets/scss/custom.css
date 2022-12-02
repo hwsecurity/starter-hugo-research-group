@@ -12963,7 +12963,7 @@ html[dir=rtl] body {
 
 .home-section.fullscreen,
 .fullscreen {
-    min-height: calc(100vh - 70px)
+    min-height: calc(100vh - 700px)
 }
 
 @media(max-width:991.98px) {

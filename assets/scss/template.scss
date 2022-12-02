@@ -1,9 +1,18 @@
 // Make page header alignment consistent with widget page header alignment
-.universal-wrapper h1 {
-  text-align: center;
-}
+// .universal-wrapper h1 {
+//   text-align: center;
+// }
 
 // Center the CTA shortcode button
-.cta-group {
-  justify-content: center;
-}
+// .cta-group {
+//   justify-content: center;
+// }
+
+@media (max-width: 991.98px) {
+  .home-section.fullscreen,
+  .fullscreen {
+    min-height: calc(100vh - 600px);
+    } }
+
+.home-section:nth-of-type(even) {
+  background: #ffffff; }

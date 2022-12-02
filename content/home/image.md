@@ -3,15 +3,29 @@ widget: slider
 weight: 10
 active: true
 headless: true
-
+css_class: 'template.scss'
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: ''
+  slide_height: '100%'
   is_fullscreen: true
   # Automatically transition through slides?
-  loop: true
+  loop: false
   # Duration of transition between slides (in ms)
   interval: 3000
+  spacing:
+    # padding:
+    #   - 20px
+    #   - "0"
+    #   - 20px
+    #   - "0"
+
+advanced:
+  css_style: '.home-section.fullscreen, .fullscreen {
+    min-height: calc(100vh - 700px);
+}'
+  css_class: '.home-section.fullscreen,
+.fullscreen {
+  min-height: calc(100vh - 700px); }'
 
 content:
   slides:
@@ -20,8 +34,8 @@ content:
       align: center
       background:
         position: center
-        fit: cover
-        color: '#666'
+        fit: contain
+        color: '#ddd'
         brightness: 0.9
         media: slides/img1.jpg
     - title: 
@@ -29,7 +43,8 @@ content:
       align: center
       background:
         position: center
-        color: '#666'
+        fit: contain
+        color: '#ddd'
         brightness: 0.9
         media: slides/img2.jpg
     - title: 
@@ -37,7 +52,8 @@ content:
       align: center
       background:
         position: center
-        color: '#666'
+        fit: contain
+        color: '#ddd'
         brightness: 0.9
         media: slides/img3.jpg
     - title: 
@@ -45,7 +61,8 @@ content:
       align: center
       background:
         position: center
-        color: '#666'
+        fit: contain
+        color: '#ddd'
         brightness: 0.9
         media: slides/img4.png
     - title: 
@@ -53,7 +70,8 @@ content:
       align: center
       background:
         position: center
-        color: '#666'
+        fit: contain
+        color: '#ddd'
         brightness: 0.9
         media: slides/img5.png
     # - title: Lunch & Learn ☕️
