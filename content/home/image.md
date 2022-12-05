@@ -37,7 +37,7 @@ content:
         fit: contain
         color: '#ddd'
         brightness: 0.9
-        media: slides/img1.jpg
+        media: slides/img1.png
     - title: 
       content: 
       align: center
@@ -46,7 +46,7 @@ content:
         fit: contain
         color: '#ddd'
         brightness: 0.9
-        media: slides/img2.jpg
+        media: slides/img2.png
     - title: 
       content: 
       align: center
@@ -64,7 +64,7 @@ content:
         fit: contain
         color: '#ddd'
         brightness: 0.9
-        media: slides/img4.png
+        media: slides/img4.jpg
     - title: 
       content: 
       align: center
@@ -73,7 +73,7 @@ content:
         fit: contain
         color: '#ddd'
         brightness: 0.9
-        media: slides/img5.png
+        media: slides/img5.jpg
     # - title: Lunch & Learn ☕️
     #   content: 'Share your knowledge with the group and explore exciting new topics together!'
     #   align: left
