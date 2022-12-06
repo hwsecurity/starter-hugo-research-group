@@ -9,7 +9,7 @@ design:
   slide_height: '100%'
   is_fullscreen: true
   # Automatically transition through slides?
-  loop: true
+  loop: false
   # Duration of transition between slides (in ms)
   interval: 3000
   spacing:
@@ -29,6 +29,19 @@ advanced:
 
 content:
   slides:
+    - title: HWS第六期
+      content: 等你来战
+      align: left
+      background:
+        position: center
+        fit: contain
+        color: '#ddd'
+        brightness: 0.5
+        media: slides/img6.jpg
+      link:
+        icon: search
+        text: View more
+        url: ../event/22-11-30-2
     - title: 
       content: 
       align: center
