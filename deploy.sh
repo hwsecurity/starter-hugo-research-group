@@ -2,8 +2,9 @@ hugo
 git add .
 git commit -m "backup"
 git push
-cd public
+cp -rf public/* ../hwsecurity.github.io 
+cd ../hwsecurity.github.io
 git add .
 git commit -m "Build website"
-git push origin main
-cd ..
+git push
+cd -
