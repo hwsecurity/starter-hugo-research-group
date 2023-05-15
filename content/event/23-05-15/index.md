@@ -8,7 +8,7 @@ location: 山东大学青岛校区淦昌苑报告厅
 date: 2023-05-21T14:00:00
 date_end: 2023-05-21T17:00:00
 all_day: false
-event: HWS第六期沙龙青岛站
+event: HWS底软安全沙龙第六期
 # event_url: https://cst.qd.sdu.edu.cn/info/1038/2459.htm
 featured: false
 authors: []
@@ -34,7 +34,11 @@ url_code: ""
 
 二、活动对象
 
-参赛对象为海内外全日制高校在校生。
+海内外全日制高校在校生。
+
+三、活动时间
+
+2023年5月21日（暂定）
 
 三、活动内容
 
