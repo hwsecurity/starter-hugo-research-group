@@ -29,19 +29,27 @@ advanced:
 
 content:
   slides:
-    - title: HWS第六期
-      content: 等你来战
+    - title: HWS第六期沙龙青岛站
+      content: 山东大学专场
+      align: left
+      background:
+        position:
+        fit: contain
+        color: '#ddd'
+        brightness: 0.5
+        media: slides/img6_1.jpg
+      link:
+        icon: search
+        text: View more
+        url: ../event/23-05-15
+    - title: 
       align: left
       background:
         position: center
         fit: contain
         color: '#ddd'
-        brightness: 0.5
+        brightness: 0.9
         media: slides/img6.jpg
-      link:
-        icon: search
-        text: View more
-        url: ../event/22-11-30-2
     - title: 
       content: 
       align: center

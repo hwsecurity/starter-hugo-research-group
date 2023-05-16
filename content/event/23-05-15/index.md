@@ -4,9 +4,9 @@ slides: null
 url_pdf: ""
 summary: 沙龙通知
 title: HWS第六期沙龙青岛站
-location: 山东大学青岛校区淦昌苑报告厅
-date: 2023-05-21T14:00:00
-date_end: 2023-05-21T17:00:00
+location: 山东大学青岛校区淦昌苑D座（网络空间安全学院）305报告厅
+date: 2023-05-20T14:00:00
+date_end: 2023-05-20T17:00:00
 all_day: false
 event: HWS底软安全沙龙第六期
 # event_url: https://cst.qd.sdu.edu.cn/info/1038/2459.htm
@@ -24,7 +24,7 @@ url_code: ""
 ---
 
 
-<!-- ![](海报.jpg) -->
+![](haibao.jpg)
 
 一、沙龙内容
 
@@ -38,7 +38,7 @@ url_code: ""
 
 三、活动时间
 
-2023年5月21日（暂定）
+2023年5月20日下午
 
 四、活动内容
 
