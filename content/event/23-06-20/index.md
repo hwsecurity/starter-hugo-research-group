@@ -8,7 +8,7 @@ location: 山东大学济南校区
 date: 2023-07-01T09:00:00
 date_end: 2023-07-01T17:00:00
 all_day: false
-event: HWS底软安全沙龙第六期
+event: HWS算法沙龙第六期
 # event_url: https://cst.qd.sdu.edu.cn/info/1038/2459.htm
 featured: false
 authors: []
