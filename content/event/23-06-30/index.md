@@ -4,7 +4,7 @@ slides: null
 url_pdf: ""
 summary: 沙龙通知
 title: HWS第六期算法沙龙（杭州站）——暨HWS第七期夏令营预选赛
-location: 杭州市
+location: 杭州市（开放线上参与渠道）
 date: 2023-07-13T09:00:00
 date_end: 2023-07-13T18:00:00
 all_day: false
@@ -23,7 +23,9 @@ projects: null
 url_code: ""
 ---
 
+<font color='red'>本次夏令营算法专场将与清华算法协会联合举办，往期内容可参考：https://mp.weixin.qq.com/s/56ben6AyGrqpnqr_cbIYIg</font>
 
+<font color='red'>成功受邀参与线下活动的同学视为拥有夏令营入营资格</font>
 
 一、部门介绍
 
@@ -81,7 +83,7 @@ url_code: ""
 
 五、参与流程
 
-报名链接：()
+报名链接：(https://www.wjx.top/vm/mbkPPRh.aspx)
 
 六、联系信息
 
