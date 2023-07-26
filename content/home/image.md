@@ -42,19 +42,19 @@ content:
         icon: search
         text: View more
         url: ../event/23-07-01
-    - title: HWS第六期沙龙青岛站
-      content: 山东大学专场
+    - title: 
+      content: 
       align: left
       background:
         position:
         fit: contain
         color: '#ddd'
-        brightness: 0.5
+        brightness: 0.9
         media: slides/img6_1.jpg
-      link:
-        icon: search
-        text: View more
-        url: ../event/23-05-15
+      # link:
+      #   icon: search
+      #   text: View more
+      #   url: ../event/23-05-15
     - title: 
       align: left
       background:
