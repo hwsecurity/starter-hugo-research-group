@@ -29,6 +29,19 @@ advanced:
 
 content:
   slides:
+    - title: HWS第七期2023夏令营
+      content: 软件算法&硬件安全
+      align: right
+      background:
+        position:
+        fit: contain
+        color: '#ddd'
+        brightness: 0.5
+        media: slides/img7.png
+      link:
+        icon: search
+        text: View more
+        url: ../event/23-07-01
     - title: HWS第六期沙龙青岛站
       content: 山东大学专场
       align: left
