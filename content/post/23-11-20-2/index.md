@@ -1,7 +1,7 @@
 ---
 title: HWS第七期山大专场活动软件算法赛道成绩公示
 date: 2023-11-20T00:00:00.000Z
-summary: CTF成绩公示
+summary: IOI成绩公示
 
 ---
 
